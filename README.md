@@ -1,10 +1,10 @@
 # Hello there!
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/brianostorm?color=d83a7c&logoColor=d83a7c&style=flat-square&logo=Twitter)](https://twitter.com/brianostorm)
+[![Twitch Follow](https://img.shields.io/badge/-t.tv/brianostorm-9046ff?style=flat-square&logo=twitch&logoColor=white)](https://twitch.tv/brianostorm)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brianodev/)](https://www.linkedin.com/in/brianodev/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:opa@briano.dev)](mailto:opa@briano.dev/)
-[![paypal](https://img.shields.io/badge/-Paypal-012169?style=flat-square&logo=Paypal)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9YPV3FHEFRAUQ) 
-
+[![Paypal](https://img.shields.io/badge/-Paypal-012169?style=flat-square&logo=Paypal)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9YPV3FHEFRAUQ) 
 
 - ✒ I'm Brian Lima, a coder based in São Paulo, Brazil, i thrive for excellence and am not afraid to try new things, always trying to solve things with code.
 - ⚒ I work at Zag, remotely, with a focus on Back-end, DevOps and making features a reality with a distributed team.
