@@ -7,7 +7,7 @@
 [![Paypal](https://img.shields.io/badge/-Paypal-012169?style=flat-square&logo=Paypal)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9YPV3FHEFRAUQ) 
 
 - ✒ I'm Brian Lima, a coder based in São Paulo, Brazil, i thrive for excellence and am not afraid to try new things, always trying to solve things with code.
-- ⚒ I work at Zag, remotely, with a focus on Back-end, DevOps and making features a reality with a distributed team.
+- ⚒ I work at Nuuvem, remotely, with a focus on Back-end and making features a reality with a distributed team.
 - 🔭 Currently building HueHue and UWPHook as open-source, user facing tools.
 - 🌱 Mostly self taught, always learning how to be a better coder, better human and a better professional.
 - 💻 I code Ruby, C#, Rails, Python, Javascript, SQL, C++, am competent with UI/UX, Devops, Docker and front-end stuff.
