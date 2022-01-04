@@ -14,7 +14,9 @@
 - 💻 I code Ruby, C#, Rails, Python, Javascript, SQL, C++, am competent with UI/UX, Devops, Docker and front-end stuff.
 - 🎮 A long date PC Gamer, love a good narrative game, indies, TF2 and am tired of competitive fpses.
 - ⚡ I also like Arduino and messing with powertools, i've built some Casemods.
-
-<img src='https://wakatime.com/share/@brianostorm/d9aaa648-303a-4a12-97ea-ca87ee2561dc.svg' width="450" align="left" >
-
-<img src='https://github-readme-stats.vercel.app/api?username=brianlima&show_icons=true&theme=radical&count_private=true&hide=contribs' width="380" >
+<p align="center">
+  <img src='https://github-readme-stats.vercel.app/api?username=brianlima&show_icons=true&theme=radical&count_private=true&hide=contribs' width="500" >
+  <br>
+  <img src='https://wakatime.com/share/@brianostorm/d9aaa648-303a-4a12-97ea-ca87ee2561dc.svg' width="500">
+  <br>
+</p>
