@@ -14,6 +14,7 @@
 - 💻 I code Ruby, C#, Rails, Python, Javascript, SQL, C++, am competent with UI/UX, Devops, Docker and front-end stuff.
 - 🎮 A long date PC Gamer, love a good narrative game, indies, TF2 and am tired of competitive fpses.
 - ⚡ I also like Arduino and messing with powertools, i've built some Casemods.
+- Currently active at [Gitlab](https://gitlab.com/Brian.lima.nuuvem)
 <p align="center">
   <img src='https://github-readme-stats.vercel.app/api?username=brianlima&show_icons=true&theme=radical&count_private=true&hide=contribs' width="500" >
   <br>
